@@ -28,7 +28,7 @@ Follow these instructions to set up the project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/1umamaster/Dia_landingPage.git
-   cd project-name
+   cd Dia_landingPage
 
 2. **Install dependencies:**
    ```bash

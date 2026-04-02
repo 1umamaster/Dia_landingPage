@@ -6,8 +6,6 @@ Dia is a modern, responsive landing page for a strategic creative agency. The pr
 
 🔗 [View Live Demo](https://1umamaster.github.io/Dia_landingPage/)
 
-> ⚠️ **Note:** Ensure the link is publicly accessible. Test it in incognito mode to verify functionality.
-
 ## Design Reference
 
 The project was developed based on a professional design layout.
